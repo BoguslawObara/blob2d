@@ -1,11 +1,8 @@
 # blob2d
 2d blob detector<br/>
 
-![test](https://github.com/favicon.ico | width=48)
-![alt text](https://github.com/BoguslawObara/blob2d/blob/master/im/arabidopsis.png){: .img-small} 
-
 INPUT  
-![alt tag](https://github.com/BoguslawObara/blob2d/blob/master/im/arabidopsis.png)
+<img src="https://github.com/BoguslawObara/blob2d/blob/master/im/arabidopsis.png" width="300">
 
 OUTPUT  
 ![alt tag](https://github.com/BoguslawObara/blob2d/blob/master/im/arabidopsis_b.png)
