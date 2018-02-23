@@ -1,6 +1,8 @@
 # blob2d
 2d blob detector<br/>
 
+![test](https://github.com/favicon.ico | width=48)
+
 INPUT  
 ![alt tag](https://github.com/BoguslawObara/blob2d/blob/master/im/arabidopsis.png)
 
