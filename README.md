@@ -5,7 +5,7 @@
 | ------------- | ------------- |
 | <img src="https://github.com/BoguslawObara/blob2d/blob/master/im/arabidopsis.png" width="250">  | <img src="https://github.com/BoguslawObara/blob2d/blob/master/im/arabidopsis_b.png" width="250"> |
 
-If you find this code useful in your research and developement, please consider citing:
+If you find this code useful in your research and development, please consider citing:
 
     @article{Obara2013a,
         author      = {Boguslaw Obara and Asma Jabeen and Nelson Fernandez and Pierre Philippe Laissue},
