@@ -1,11 +1,9 @@
 # blob2d
 2d blob detector<br/>
 
-INPUT  
-<img src="https://github.com/BoguslawObara/blob2d/blob/master/im/arabidopsis.png" width="250">
-
-OUTPUT  
-<img src="https://github.com/BoguslawObara/blob2d/blob/master/im/arabidopsis_b.png" width="250">
+| INPUT  | OUTPUT |
+| ------------- | ------------- |
+| <img src="https://github.com/BoguslawObara/blob2d/blob/master/im/arabidopsis.png" width="250">  | <img src="https://github.com/BoguslawObara/blob2d/blob/master/im/arabidopsis_b.png" width="250"> |
 
 If you find this code useful in your research and developement, please consider citing:
 
