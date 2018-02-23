@@ -2,10 +2,10 @@
 2d blob detector<br/>
 
 INPUT  
-<img src="https://github.com/BoguslawObara/blob2d/blob/master/im/arabidopsis.png" width="300">
+<img src="https://github.com/BoguslawObara/blob2d/blob/master/im/arabidopsis.png" width="250">
 
 OUTPUT  
-![alt tag](https://github.com/BoguslawObara/blob2d/blob/master/im/arabidopsis_b.png)
+<img src="https://github.com/BoguslawObara/blob2d/blob/master/im/arabidopsis_b.png" width="250">
 
 If you find this code useful in your research and developement, please consider citing:
 
